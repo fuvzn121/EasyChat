@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "EasyChat9720"
+  },
+  "hostingPlanName": {
+    "value": "caht"
+  },
+  "siteLocation": {
+    "value": "Japan East"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "f440c269-5c26-4832-9458-0ebcab0f5805"
+  },
+  "resourceGroup": {
+    "value": "chatserver"
+  }
+}
